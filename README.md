@@ -17,7 +17,6 @@
 13. [What I Learned About RAG in Production](#what-i-learned-about-rag-in-production)
 14. [Why DataPilotFlow Exists](#why-datapilotflow-exists)
 15. [What DataPilotFlow Supports](#-what-datapilotflow-supports)
-16. [Let's Discuss](#-lets-discuss)
 
 ---
 
@@ -729,21 +728,6 @@ That's why I'm building **DataPilotFlow** - because high-stakes knowledge work n
 
 ---
 
-## 💬 Let's Discuss
-
-**What's YOUR biggest challenge with document search?**
-
-Drop a comment below. Let's discuss your specific use case.
-
-Some questions I can answer:
-- How does this compare to ChatGPT with RAG?
-- Can it work with [your specific doc type]?
-- What about data privacy?
-- Integration with existing tools?
-
-🔗 **Check out the code:** [https://github.com/bassem-elsodany/datapilotflow](https://github.com/bassem-elsodany/datapilotflow)
----
-
 **#DataPilotFlow #RAG #AIinPharma #GenerativeAI #RegulatoryAffairs #MachineLearning #EnterpriseAI #Productivity #Innovation #LifeSciences #ClinicalDevelopment #Pharmacovigilance #AIStrategies #ComingSoon**
 
 ---
@@ -753,7 +737,3 @@ Some questions I can answer:
 **🚀 Launching Soon | 🔔 Follow for Updates | 💬 Share Your Challenges**
 
 **🔗 GitHub:** [https://github.com/bassem-elsodany/datapilotflow](https://github.com/bassem-elsodany/datapilotflow)
-
----
-
-**P.S.** If you're dealing with complex documentation in pharma, legal, engineering, or any other field - share your story in the comments. Real-world challenges drive better solutions.
